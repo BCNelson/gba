@@ -3,7 +3,7 @@
     "background_color": "#f69435",
     "display": "minimal-ui",
     "scope": "/",
-    "start_url": "https://bcnelson.github.io/gba",
+    "start_url": "https://bcnelson.github.io/gba/",
     "name": "GBA Emulator",
     "short_name": "GBA",
     "prefer_related_applications": false,
