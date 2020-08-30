@@ -2,6 +2,6 @@
 window.addEventListener('load', () => {
     if ('serviceWorker' in navigator) {
         navigator.serviceWorker
-            .register('/sw.js');
+            .register('/gba/sw.js');
     }
 });
